@@ -1,2 +1,2 @@
-# xface-test
-trying to create boot usb for xface
+# test
+learning how to use GitHub on lmde
